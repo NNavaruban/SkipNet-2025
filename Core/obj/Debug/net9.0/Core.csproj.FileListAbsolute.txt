@@ -1,0 +1,23 @@
+D:\dotnet\skipnet\Core\bin\Debug\net9.0\Core.deps.json
+D:\dotnet\skipnet\Core\bin\Debug\net9.0\Core.dll
+D:\dotnet\skipnet\Core\bin\Debug\net9.0\Core.pdb
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.dll
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\refint\Core.dll
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\Core.pdb
+D:\dotnet\skipnet\Core\obj\Debug\net9.0\ref\Core.dll
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\bin\Debug\net9.0\Core.deps.json
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\bin\Debug\net9.0\Core.dll
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\bin\Debug\net9.0\Core.pdb
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.sourcelink.json
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.dll
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\refint\Core.dll
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\Core.pdb
+D:\dotnet\Udemy Tutorial\skipnet\Progress\skipnet\Core\obj\Debug\net9.0\ref\Core.dll

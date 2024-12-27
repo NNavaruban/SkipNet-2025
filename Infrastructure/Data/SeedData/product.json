@@ -1,0 +1,20 @@
+[
+  {
+    "Name":"Water bottle",
+    "Description":"Water bottle - brand is Horizon",
+    "Price":450.00,
+    "PictureUrl":"",
+    "Type":"Stationary",
+    "Brand":"Horizon",
+    "QuantityInStock":250
+   },
+   {
+    "Name":"Water bottle",
+    "Description":"Water bottle - brand is Horizon",
+    "Price":450.00,
+    "PictureUrl":"",
+    "Type":"Stationary",
+    "Brand":"Horizon",
+    "QuantityInStock":250
+   }
+]
