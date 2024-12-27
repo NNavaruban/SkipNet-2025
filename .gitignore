@@ -1,0 +1,26 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore .NET Core specific files
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.bak
+
+# Ignore test results
+TestResults/
+
+# Ignore directories created by Visual Studio
+.vs/
+.idea/
+
+# Ignore NuGet files
+*.nupkg
+*.snupkg
